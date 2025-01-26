@@ -1,8 +1,6 @@
-# Raport dla Fundacji Gajusz
+# Report for the Foundation
 
-Analyst Klaudia (founder of the blog https://jezykdanych.pl/) created a charity venture called #BI_NGO, which helps beginner analysts develop their skills with real social issues. The first edition concerned the Gajusz Foundation, which needed visuals for educational purposes and to inform the public about the scale of the above phenomena across Poland and/or in specific provinces.
-
-# Pierwsza edycja #BI_NGO
+Analyst Klaudia (founder of the blog https://jezykdanych.pl/) created a charity venture called #BI_NGO, which helps beginner analysts develop their skills with real social issues. The first edition #BI_NGO concerned the Gajusz Foundation, which needed visuals for educational purposes and to inform the public about the scale of the above phenomena across Poland and/or in specific provinces.
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNTBhN2Y5OGQtNWY0OS00M2E0LThjMjMtYWVlMjA1YzcwYjRiIiwidCI6IjczY2E0M2UxLTllNjYtNDJmMC1hZjhjLTQzNDYwMGFiNWQ2YiIsImMiOjl9
 
