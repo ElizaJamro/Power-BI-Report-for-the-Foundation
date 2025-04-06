@@ -2,7 +2,7 @@
 
 Analyst Klaudia (founder of the blog https://jezykdanych.pl/) created a charity venture called #BI_NGO, which helps beginner analysts develop their skills with real social issues. The first edition #BI_NGO concerned the Gajusz Foundation, which needed visuals for educational purposes and to inform the public about the scale of the above phenomena across Poland and/or in specific provinces.
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZmQ2ZmZmNjUtODBkNy00YTY0LWIyODAtY2I4Yjg1MTBiMmVhIiwidCI6IjczY2E0M2UxLTllNjYtNDJmMC1hZjhjLTQzNDYwMGFiNWQ2YiIsImMiOjl9
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMmViNzQwZDUtNmUxNS00ZmZmLTk5YjktYzE1ZmEwMDEyMzAyIiwidCI6IjczY2E0M2UxLTllNjYtNDJmMC1hZjhjLTQzNDYwMGFiNWQ2YiIsImMiOjl9
 
 ## Problem Statement
 
